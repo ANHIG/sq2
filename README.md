@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # sq2
 
 This repository will contain code described in the PLOS Genetics paper;
@@ -29,4 +28,3 @@ Peter Parham (3)
 4. Histogenetics, Ossining, New York, USA
 
 PLOS Genetics
->>>>>>> Stashed changes
