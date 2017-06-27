@@ -1,14 +1,3 @@
-<<<<<<< Updated upstream
-# sq2
-
-This repository will contain code described in the PLOS Genetics paper;
-
-Distinguishing functional polymorphism from random variation in the sequences of >10,000 HLA-A, -B and -C alleles
-J Robinson, LA Guethlein, N Cereb, SY Yang, PJ Normam, SGE Marsh P Parham
-PLOS Genetics 2017
-
-The repository will be updated upon full publication of the article. 
-=======
 # sq2 README
 
 Repository for software described in;
@@ -29,4 +18,3 @@ Peter Parham (3)
 4. Histogenetics, Ossining, New York, USA
 
 PLOS Genetics
->>>>>>> Stashed changes
