@@ -17,4 +17,6 @@ Peter Parham (3)
 3. Dept. of Structural Biology & Dept. of Microbiology & Immunology, School of Medicine, Stanford University, Stanford, USA
 4. Histogenetics, Ossining, New York, USA
 
-PLOS Genetics
+PLOS Genetics (http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006862)
+
+__Note:__ The code available from this repository is provided with out any warranty or liability. The code was designed to complete analysis of a targeted set of HLA data. The code is therefore provided 'as-is' and development for other regions is not actively supported.

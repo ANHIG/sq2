@@ -1,1 +1,23 @@
-pending
+#!/usr/bin/perl
+#
+# A perl script to generate input files as described in;
+#
+# http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006862
+#
+# Please see README and LICENSE for details of use
+#
+#=========================================================================================
+
+# CLUSTAL outputs should be reformatted to display bases with periods representing indels. 
+# Each sequence should be on a single line with the format ID\tSEQUENCE, example below.
+#
+# HLA-A_01:01:01:01	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:01:02N	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:01:03	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:02	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:03	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:04	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:05	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+# HLA-A_01:01:06	GCTCCCACTCCATGAGGTATTTCTTCACATCCGTGTCCC.....GGCCCGGCCGCGGGGAGCCC
+#
+# Full code to follow
